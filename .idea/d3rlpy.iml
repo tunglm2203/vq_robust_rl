@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/auto_LiRPA" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/s144_d3rlpy_logs" />
+      <excludeFolder url="file://$MODULE_DIR$/s144_eval_results" />
+      <excludeFolder url="file://$MODULE_DIR$/s144_eval_results_analyse" />
+      <excludeFolder url="file://$MODULE_DIR$/s123_eval_results" />
+      <excludeFolder url="file://$MODULE_DIR$/s123_d3rlpy_logs" />
+      <excludeFolder url="file://$MODULE_DIR$/s68_eval_results" />
+      <excludeFolder url="file://$MODULE_DIR$/s68_d3rlpy_logs" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/cheetah" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/hopper" />
+      <excludeFolder url="file://$MODULE_DIR$/s144_eval_results_v2" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/unused" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluation" />
+      <excludeFolder url="file://$MODULE_DIR$/d3rlpy.egg-info" />
+      <excludeFolder url="file://$MODULE_DIR$/testers" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluation_s123" />
+      <excludeFolder url="file://$MODULE_DIR$/images" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/invdoublependulum" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/invpendulum" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/reacher" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/swimmer" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/ant" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/evaluation_s144" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/evals" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts/train/walker2d" />
+    </content>
+    <orderEntry type="jdk" jdkName="Remote Python 3.7.13 (sftp://tung@143.248.158.144:22/home/tung/miniconda3/envs/py37/bin/python)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
