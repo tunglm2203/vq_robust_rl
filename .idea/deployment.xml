@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="AIM-s118">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/hdd/tung/workspace/rlbench/d3rlpy" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="AIM-s123">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/hdd/tung/workspace/rlbench/d3rlpy" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="AIM-s68">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/tung/workspace/rlbench/d3rlpy" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="AIM-w144">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/tung/workspace/rlbench/test_code/d3rlpy" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
