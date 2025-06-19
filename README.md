@@ -5,7 +5,7 @@
 <br>
 <sup>1</sup>KAIST, South Korea, <sup>2</sup>Korea University, South Korea
 <br>
-[[arXiv]](https://arxiv.org/pdf/2410.03376) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10802066) 
+[[arXiv]](https://arxiv.org/abs/2410.03376) [[Paper]](https://ieeexplore.ieee.org/document/10802066) 
 
 ## Installation
 
